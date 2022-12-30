@@ -1,0 +1,38 @@
+﻿@model IEnumerable<User>
+@{
+    ViewData["Title"] = "Early Sign Ups";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>List of Users signed up to The Serial Trader.</p>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>City</th>
+            <th>Sign-Up Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+        <tr>
+            <td>
+                @user.Name
+            </td>
+            <td>
+                @user.Email
+            </td>
+            <td>
+                @user.City
+            </td>
+            <td>
+                @user.SignUpDate
+            </td>
+        </tr>
+    }
+        </tbody>
+    </table>
+

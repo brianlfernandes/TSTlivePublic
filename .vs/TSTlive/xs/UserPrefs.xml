@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{AF1529BE-667A-4B33-A1EF-474F702054F2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TSTmvc/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="TSTmvc/Controllers/HomeController.cs" Line="28" Column="1" />
+      <File FileName="TSTmvc/Views/Home/Index.cshtml" />
+      <File FileName="TSTmvc/Models/User.cs" />
+      <File FileName="TSTmvc/Views/Home/Privacy.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TSTlive" expanded="True">
+            <Node name="TSTmvc" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TSTmvc PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/brian/Projects/TSTlive/TSTmvc/Controllers/HomeController.cs" relfile="TSTmvc/Controllers/HomeController.cs" line="28" column="1" />
+      <Breakpoint file="/Users/brian/Projects/TSTlive/TSTmvc/Controllers/HomeController.cs" relfile="TSTmvc/Controllers/HomeController.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
